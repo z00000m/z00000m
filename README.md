@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @z00000m
 - 👀 I’m interested in Video Games
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Unreal Engine (Blueprint)
 - 💞️ I’m looking to collaborate on Video game company
 - 📫 How to reach me : gfremaux.75@gmail.com / 0766615433
 
